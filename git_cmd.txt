@@ -16,3 +16,4 @@ git branch 分支名  从当前分支复制并创建分支;
 git checkout 分支名1 切换到分支名为1的分支;
 git merge 分支2 将分支2合并到当前分支;
 git hot-fix中的修改
+github中做的修改
