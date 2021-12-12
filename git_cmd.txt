@@ -8,3 +8,6 @@ git commit -m "注释日志" 文件名;
 git reflog 查看历史版本; 
 git reset --hard hashcode 切换到某个动作后的版本;
 git log 查看详细版本;
+git 暂存区有啥用?
+git
+不add直接commithuizayang?
