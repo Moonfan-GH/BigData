@@ -5,4 +5,4 @@ git status;
 git add 文件名;
 git rm --cached 文件名;
 git commit -m "注释日志" 文件名;
-git 
+git reflog 
